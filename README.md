@@ -3,6 +3,26 @@
 This repository contains the dataset and analysis code for an empirical study on **human–LLM collaboration effort in software development tasks**.  
 The study investigates how **traditional effort estimation metrics** compare with **Hybrid Intelligence Effort (HIE)** dimensions, capturing human oversight, iterative prompting behavior, and LLM reasoning complexity.
 
+
+---
+
+## Citation
+
+If you use this dataset or code in your research, please cite the following paper:
+
+```bibtex
+@article{alaswad2026hybrid,
+  title={Hybrid intelligence effort for software effort estimation in LLM assisted development},
+  author={Alaswad, Feisal and Poovammal, E and Ramana, Kadiyala and Narayana, G Surya and Khan, Arfat Ahmad and Faheem, Muhammad},
+  journal={Discover Computing},
+  volume={29},
+  number={1},
+  pages={424},
+  year={2026},
+  publisher={Springer}
+}
+```
+
 ---
 
 
@@ -45,24 +65,7 @@ These notebooks include:
 
 
 
----
 
-## Citation
-
-If you use this dataset or code in your research, please cite the following paper:
-
-```bibtex
-@article{alaswad2026hybrid,
-  title={Hybrid intelligence effort for software effort estimation in LLM assisted development},
-  author={Alaswad, Feisal and Poovammal, E and Ramana, Kadiyala and Narayana, G Surya and Khan, Arfat Ahmad and Faheem, Muhammad},
-  journal={Discover Computing},
-  volume={29},
-  number={1},
-  pages={424},
-  year={2026},
-  publisher={Springer}
-}
-```
 
 
 ---
